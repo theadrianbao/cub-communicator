@@ -2,7 +2,7 @@
 
 A simple, end-to-end encrypted chat application for private messaging between users.
 
-<video src="./demo.mp4" controls width="800" style="border-radius: 8px; margin-top: 1rem;"></video>
+https://github.com/user-attachments/assets/7ea720af-c1ea-4a15-80ad-0a81cfbb281f
 
 ---
 
